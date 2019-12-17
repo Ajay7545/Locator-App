@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/member" android:title="Members" android:icon="@drawable/ic_people_black_24dp"/>
+    <item android:id="@+id/chat" android:title="Chat" android:icon="@drawable/ic_chat_black_24dp"/>
+    <item android:id="@+id/videocall" android:title="VideoCall" android:icon="@drawable/ic_video_call_black_24dp"/>
+    <item android:id="@+id/events" android:title="Events" android:icon="@drawable/ic_event_black_24dp"/>
+    <item android:id="@+id/setting" android:title="Settings" android:icon="@drawable/ic_settings_black_24dp"/>
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_block_black_24dp"/>
+
+</menu>

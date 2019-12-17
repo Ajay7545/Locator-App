@@ -1,0 +1,702 @@
+{
+  "project_info": {
+    "project_number": "1058193060111",
+    "firebase_url": "https://unique-e4555.firebaseio.com",
+    "project_id": "unique-e4555",
+    "storage_bucket": "unique-e4555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:52d79424368d6983",
+        "android_client_info": {
+          "package_name": "com.digipodium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:f1816d2d3d1b75a4",
+        "android_client_info": {
+          "package_name": "com.digipodium.cloud_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-buhjp61640arsvslrvgtvpaq157j98kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.cloud_demo",
+            "certificate_hash": "7489327d87264290e262d5e5c991c7ef86020679"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:cfb253b1d3920875",
+        "android_client_info": {
+          "package_name": "com.digipodium.clouddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-7cv5r573pclm1fr9hnc1bbb820i6k792.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "72f9a7257fe89df9a36304ec7b33df7b3ef5c803"
+          }
+        },
+        {
+          "client_id": "1058193060111-fnas7i83domtld5fgpsa51dro3lec19v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "ac6e7afc92ffa14e17b6bf54ddac87010f807283"
+          }
+        },
+        {
+          "client_id": "1058193060111-f3o3sgi9dmjv8l0d3d18ljfl9h3slqvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "c6b824988c7be744efcba3472929f4f179eb6f4c"
+          }
+        },
+        {
+          "client_id": "1058193060111-6ub9kik0jgvaph5dcbof8u60nu994293.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "75b544f2acb553a5c6834af0142ef7a2567d2cfb"
+          }
+        },
+        {
+          "client_id": "1058193060111-jcdhbn6hl54hs3ej1i8r2mhcf9rqkgp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "552ec0663b0f634366febf186680e47ef94a2b91"
+          }
+        },
+        {
+          "client_id": "1058193060111-op2nmtnh86v0l86kshp9vmukti7bjlnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "946b88a60978f0dd60d61b3a3c53b2025a810672"
+          }
+        },
+        {
+          "client_id": "1058193060111-b6p4bkh9ar17jplms8q9g26jdgrs3l74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "6fddcccc61663936c9b14f7fb5cbe65f02386fb3"
+          }
+        },
+        {
+          "client_id": "1058193060111-489q5vdk0r797e5ekshaboequb19d2c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "b8c5e39011e1c95a99316029b26b28888be7e370"
+          }
+        },
+        {
+          "client_id": "1058193060111-j06ilfv9qsbmvhrtpjsn08vns6l97avr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "e49d50da46b0034224d8180dac6511ecb63f4294"
+          }
+        },
+        {
+          "client_id": "1058193060111-nmoe8pmv0cson7n9n8h3brhj0516d930.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo",
+            "certificate_hash": "f77759f582f6bc906f5a0dcc1000d08be57f873f"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:50f1a6b6c5dd220b",
+        "android_client_info": {
+          "package_name": "com.digipodium.clouddemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-d9hbngargvlsp78fj5v570jr300fakio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo1",
+            "certificate_hash": "9273de474453cfbc8981b5112f6fa6680771d63c"
+          }
+        },
+        {
+          "client_id": "1058193060111-jl0du43d0bi4tn3miger6vs1pm5bf1lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.clouddemo1",
+            "certificate_hash": "44c2c5aed5db3a346035bed4246e8dcbf57a7405"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:642d7ce72d5bb93f",
+        "android_client_info": {
+          "package_name": "com.digipodium.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-p9f82t49rn63f9ad327a1948816ufc0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.firebaseapp",
+            "certificate_hash": "915901d2cd0434a0a270d697ceb9b4d6f6c10f7e"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:00fb2b0b19b9ffeb",
+        "android_client_info": {
+          "package_name": "com.digipodium.firedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-0esr0c6gt3uuhkku0dtboq35b7hpnhgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.firedemo",
+            "certificate_hash": "a11577b15b895638a7932fe931ec4443ea129bd1"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:33e121fbaf5ea39a",
+        "android_client_info": {
+          "package_name": "com.digipodium.firstactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-kf2vrho3acmnhse78uo1gmhtpda79qg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.firstactivity",
+            "certificate_hash": "f46f7c82c64cf806ad77bae4401ff49e29ea1233"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:597c072fbacc4501",
+        "android_client_info": {
+          "package_name": "com.digipodium.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-nbckqr1mgthqcojdf294j7j5ha6u8l9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.hero",
+            "certificate_hash": "8187bf7603cef8d39b0f9d4b47ff381f02d8f883"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:29ed36e369277dd0",
+        "android_client_info": {
+          "package_name": "com.digipodium.mycloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-h4nlmns59p1saannvs6qp8trtuoa0l27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.mycloud",
+            "certificate_hash": "2030c380bafe2aa32ede4353021ff89ec61c35d1"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:98014ec66520328b",
+        "android_client_info": {
+          "package_name": "com.digipodium.withyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-j4d1slspr44m4nv2kfk65gan0jr4llct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.withyou",
+            "certificate_hash": "204016a442c15c0b916a4f8b1332cf35ea01fd66"
+          }
+        },
+        {
+          "client_id": "1058193060111-i7sjt3b6h87rrvi4afp3gvpooaek6mq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.withyou",
+            "certificate_hash": "f46f7c82c64cf806ad77bae4401ff49e29ea1233"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:673d75496f054de5",
+        "android_client_info": {
+          "package_name": "com.digipodium.www.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-7uk4n84c37gnpa3henihi1ce23ar5v9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.www.firebase",
+            "certificate_hash": "70db5cc321453a731e0f7dce555060e98f915934"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:bb4befd646349ad2",
+        "android_client_info": {
+          "package_name": "com.dugipodium.clouddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-17s54a8jlrndhm39ocd4ao87rf6j15kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dugipodium.clouddemo",
+            "certificate_hash": "9a2b28be16233caabc11c630904be6855f1fed40"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:f6096238955ff523",
+        "android_client_info": {
+          "package_name": "com.example.hp.mycloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-r6blkjs98sfbre91lnc17b0gj9s34gfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.mycloud",
+            "certificate_hash": "1a85b404186b586f13530b5c8a3d91338d5ac021"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058193060111:android:cb69651ca8c9ec12",
+        "android_client_info": {
+          "package_name": "com.example.root.mycloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058193060111-ddkeifn3l5f12macrpo8ftv1mrufpemr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.mycloud",
+            "certificate_hash": "ead08a437300248f2e43858d8f8b99248a9b78e4"
+          }
+        },
+        {
+          "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsnQHGoOP6OPokUKS-8o1S1ocZV5NE7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058193060111-c060ib8kfl1o2aemrkkpd3uaj2h6m99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
